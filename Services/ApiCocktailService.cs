@@ -7,7 +7,7 @@ namespace Web.Services
     {
         private readonly HttpClient _httpClient;
         private const string BaseUrl = "https://api.api-ninjas.com/v1/cocktail";
-        private const string ApiKey = "7zhLhg4YaFvM/RwDPkNf4w==Z88mBBM1ZLxiTdLw";
+        private const string ApiKey = "";
 
         public ApiCocktailService()
         {
